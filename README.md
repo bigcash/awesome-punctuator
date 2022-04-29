@@ -23,4 +23,5 @@ awesome list of **punctuator**  ( a.k.a., **Punctuation**)
 | [PPASR](https://github.com/yeyupiaoling/PPASR)               | cn    | y     | 基于PaddlePaddle2实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。 |                                                              |
 | [-](https://github.com/camel2000/-)                          | cn    |       | 用多层BLSTM模型同时进行中文分词和标点符号预测                |                                                              |
 | [BertPunc](https://github.com/nkrnrnk/BertPunc)              | en    |       | SOTA punctation restoration (for e.g. automatic speech recognition) deep learning model based on BERT pre-trained model | [link](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1517.PDF) |
+| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech/tree/develop/examples/iwslt2012/punc0) | cn    | y     | Punctuation Restoration                                      |                                                              |
 
